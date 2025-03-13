@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "5a0221f8ab4823c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fb61fcf21c69c37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a239941182eee1d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "5e15aee29d45c01e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/Aprendizaje/Arquitecturas para API (Explicaciones)/Arquitectura Hexagonal Estudio/🔹  Public index.php.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔹  Public index.php"
+            }
+          },
+          {
+            "id": "08facea52109942e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/Aprendizaje/Arquitecturas para API (Explicaciones)/Arquitectura Hexagonal Estudio/📌 Arquitectura Hexagonal en PHP 8.4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📌 Arquitectura Hexagonal en PHP 8.4"
+            }
+          },
+          {
+            "id": "5147b52d2e902749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/Aprendizaje/Frameworks/MaterialUI/MaterialUI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MaterialUI"
+            }
+          },
+          {
+            "id": "5d8586f9ead55cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/Aprendizaje/Arquitecturas para API (Explicaciones)/Arquitectura Hexagonal Estudio/Contenedor de Dependencias (DI Container).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contenedor de Dependencias (DI Container)"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "137be267dacb156f",
+    "type": "split",
+    "children": [
+      {
+        "id": "60158a8035bebc7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54041da90dec4e39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0ad2222445b482be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Slim",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9c6f3fc10388a59a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425.5
+  },
+  "right": {
+    "id": "30cd0565ebfa5f1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "64575891e3843410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a236063413368d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "796f3df67f0dfde5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Proyectos/Aprendizaje/PHP/Plan de Estudios PHP/Plan de Estudios PHP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Plan de Estudios PHP"
+            }
+          },
+          {
+            "id": "cc88ec0aec22ab54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Proyectos/Aprendizaje/PHP/Plan de Estudios PHP/Plan de Estudios PHP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Plan de Estudios PHP"
+            }
+          },
+          {
+            "id": "420b846f66cb2353",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "cc03e9c5daa1c3f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Proyectos/Aprendizaje/PHP/Plan de Estudios PHP/Plan de Estudios PHP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Plan de Estudios PHP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5d8586f9ead55cad",
+  "lastOpenFiles": [
+    "Proyectos/Aprendizaje/Arquitectura De Software/Documentacion y Arquitectura de Software.md",
+    "Proyectos/Aprendizaje/Arquitectura De Software",
+    "Proyectos/Softwares/API/Arquitectura Recomendada para proyectos a base de estudios.md",
+    "Proyectos/Aprendizaje/Arquitecturas para API (Explicaciones)/Arquitectura Hexagonal Estudio/📌 Arquitectura Hexagonal en PHP 8.4.md",
+    "Proyectos/Aprendizaje/Arquitecturas para API (Explicaciones)/🔹 Zero Trust Seguridad sin confianza implícita.md",
+    "Proyectos/Aprendizaje/Arquitecturas para API (Explicaciones)/📌 Arquitectura Modelo-Vista-Controlador (MVC) en PHP 8.4.md",
+    "Proyectos/Aprendizaje/Arquitecturas para API (Explicaciones)/Arquitectura Hexagonal Estudio/Notas de aprendizaje.md",
+    "Proyectos/Aprendizaje/Arquitecturas para API (Explicaciones)/Arquitectura Hexagonal Estudio/🔹 Estructura del Proyecto.md",
+    "Proyectos/Aprendizaje/Frameworks/Backend para php/Slim Framework.md",
+    "Proyectos/Aprendizaje/Frameworks/MaterialUI/MaterialUI.md",
+    "Proyectos/Aprendizaje/Frameworks/MaterialUI",
+    "Proyectos/Aprendizaje/Arquitecturas para API (Explicaciones)/🔹Microservicios Arquitectura escalable y flexible.md",
+    "Proyectos/Aprendizaje/Arquitecturas para API (Explicaciones)/Arquitectura Hexagonal Estudio/🔹  Public index.php.md",
+    "Proyectos/Aprendizaje/Arquitecturas para API (Explicaciones)/Arquitectura Hexagonal Estudio/Contenedor de Dependencias (DI Container).md",
+    "Proyectos/Aprendizaje/Frameworks/TailwindCss/TailWindCss.md",
+    "Proyectos/Aprendizaje/PHP/🚀✨ Ruta de Aprendizaje PHP Profesional 🏆/Patrones de arquitectura PHP.md",
+    "Proyectos/Aprendizaje/Arquitecturas para API (Explicaciones)/Arquitectura Hexagonal Estudio",
+    "Proyectos/Aprendizaje/Frameworks/Backend para php/Instalacion de Slim.md",
+    "Proyectos/Aprendizaje/Frameworks/React/React.md",
+    "Proyectos/Aprendizaje/Frameworks/React",
+    "Meta de aprendizaje.md",
+    "Proyectos/Aprendizaje/Frameworks/TailwindCss",
+    "Proyectos/Aprendizaje/PHP/🚀✨ Ruta de Aprendizaje PHP Profesional 🏆/Plan de Estudios PHP GENERALES.md",
+    "Proyectos/Aprendizaje/PHP/🚀✨ Ruta de Aprendizaje PHP Profesional 🏆/Notas y Realizacion de planes de estudio (Seguimiento).md",
+    "Proyectos/Aprendizaje/PHP/🚀✨ Ruta de Aprendizaje PHP Profesional 🏆/Plan de estudios PHP Enfocados.md",
+    "Fundamentos de derecho/Desigualdad en Derechos En El Trabajo por medio de Genero.md",
+    "Emprendimiento/Mapa de oportunidades 03-03-25.md",
+    "BigData y Python/Big Data.md",
+    "Infraestructura y DevOps",
+    "Proyectos/Softwares/Mejoras de la estructura actual.md",
+    "Proyectos/Softwares/Debilidades de la estructura actual.md",
+    "Proyectos/Aprendizaje/Frameworks/Laravel",
+    "Proyectos/Aprendizaje/Frameworks/Backend para php",
+    "Proyectos/Aprendizaje/Frameworks",
+    "Proyectos/Aprendizaje/Frameworks/Laravel/Laravel.md",
+    "Proyectos/Softwares/FrontEnd",
+    "Sin título.canvas"
+  ]
+}
